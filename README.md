@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonkeeney-mo
 - 👀 I’m interested in building useful, maintainable software with whatever tools are available.
-- 🌱 I’m currently learning the MERN stack.
+- 🌱 I’m currently learning the MERN stack and Go.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ... jonkeeney at gmail dot com.
 
